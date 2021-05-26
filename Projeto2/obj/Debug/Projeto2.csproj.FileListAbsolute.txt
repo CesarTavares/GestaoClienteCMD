@@ -1,0 +1,7 @@
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\obj\Debug\Projeto2.csprojAssemblyReference.cache
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.CoreCompileInputs.cache
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+E:\Aulas2021\CursoC#VictorLima\Projeto2\Projeto2\obj\Debug\Projeto2.pdb
